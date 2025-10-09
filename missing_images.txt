@@ -1,0 +1,15 @@
+Missing Images List:
+-------------------
+
+1. customer1.jpg - Used in index.html testimonials section
+2. customer2.jpg - Used in product.html reviews section
+3. customer3.jpg - Used in index.html testimonials section
+4. gulab-jamun.jpg - Used in product.html gallery
+5. gulab-jamun-2.jpg - Used in product.html gallery
+6. gulab-jamun-3.jpg - Used in product.html gallery
+7. rasgulla.jpg - Used in product.html related products
+8. chocolate-barfi.jpg - Used in product.html related products
+9. kaju-katli.jpg - Used in product.html related products
+10. loyalty-bg.jpg - Used in loyalty.css as background
+
+These images need to be added to the Dhaaba folder to make the website fully functional.
